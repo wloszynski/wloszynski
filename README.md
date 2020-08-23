@@ -32,7 +32,7 @@
 
 **Data Science libraries and frameworks I am familiar with**
 
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=panda)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=library)
 ![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000000?style=flat&logo=scikit)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
