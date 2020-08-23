@@ -9,6 +9,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-AdrianWloszynski-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianwloszynski/)](https://www.kaggle.com/adrianwloszynski/)
 
 **Interested in**
+
 ![Data_Science](https://img.shields.io/badge/-Data_Science-000000?style=flat&logo=data)
 ![Data_Analysis](https://img.shields.io/badge/-Data_Analysis-000000?style=flat&logo=machine)
 ![Machine_Learning](https://img.shields.io/badge/-Machine_Learning-000000?style=flat&logo=python)
