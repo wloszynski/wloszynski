@@ -1,6 +1,8 @@
 ### Hi there! 👋
 <img align='right' src='https://github.com/wloszynski/wloszynski/blob/master/octocat-anime.gif' width='150"'>
 
+## Let's connect!
+
 [![Linkedin Badge](https://img.shields.io/badge/-AdrianWloszynski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wloszynski/)](https://www.linkedin.com/in/wloszynski/)
 [![Website Badge](https://img.shields.io/badge/-adrianwloszynski.com-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://adrianwloszynski.com/)](https://adrianwloszynski.com)
 [![Gmail Badge](https://img.shields.io/badge/-adrian@wloszynski.pl-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrian@wloszynski.pl)](mailto:adrian@wloszynski.pl)
