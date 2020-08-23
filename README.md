@@ -7,3 +7,4 @@
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/wloszynski/)
 - ⚡ Fun fact: ... I'm just curious, so I keep learning new things x)
 
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
