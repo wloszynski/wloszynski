@@ -1,5 +1,5 @@
 ### Hi there, here is what I'm Working On! 👋
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+<img align='right' src='https://github.com/wloszynski/wloszynski/blob/master/octocat-anime.gif' width='150"'>
 
 - 🔭 I’m currently working on ... improving my Data Science skillset.
 - 🌱 I’m currently learning ... Data Science (ML etc.)
