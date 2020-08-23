@@ -10,8 +10,8 @@
 
 **Interested in**
 
-![Data_Science](https://img.shields.io/badge/-Data_Science-000000?style=flat&logo=data)
-![Data_Analysis](https://img.shields.io/badge/-Data_Analysis-000000?style=flat&logo=machine)
+![Data_Science](https://img.shields.io/badge/-Data_Science-000000?style=flat&logo=python)
+![Data_Analysis](https://img.shields.io/badge/-Data_Analysis-000000?style=flat&logo=python)
 ![Machine_Learning](https://img.shields.io/badge/-Machine_Learning-000000?style=flat&logo=python)
 ![Deep_Learning](https://img.shields.io/badge/-Deep_Learning-000000?style=flat&logo=python)
 
