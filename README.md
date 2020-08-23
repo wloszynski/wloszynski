@@ -42,4 +42,4 @@ I am a technical college graduate, self-taught programmer living in Poznan, Pola
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)
 
 
-**Data Science projects below**
+## Data Science projects below ##
