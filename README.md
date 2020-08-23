@@ -33,8 +33,8 @@
 **Data Science libraries and frameworks I am familiar with**
 
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=library)
-![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000000?style=flat&logo=scikit)
+![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=library)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000000?style=flat&logo=library)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
 ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=keras)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)
