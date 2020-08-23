@@ -7,10 +7,10 @@
 
 **Interested in**
 
-!Data Science
-!Data Analysis
-!Machine Learning
-!Deep Learning
+![Data Science]
+![Data Analysis]
+![Machine Learning]
+![Deep Learning]
 
 **Languages I have used**
 
