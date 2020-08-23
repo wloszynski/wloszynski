@@ -31,11 +31,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
 **Data Science libraries and frameworks I am familiar with**
-![Pandas](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Numpy](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![PyTorch](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Keras](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
+![Pandas](https://img.shields.io/badge/-Python-000000?style=flat&logo=pandas)
+![Numpy](https://img.shields.io/badge/-Python-000000?style=flat&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/-Python-000000?style=flat&logo=scikit)
+![PyTorch](https://img.shields.io/badge/-Python-000000?style=flat&logo=pytorch)
+![Keras](https://img.shields.io/badge/-Python-000000?style=flat&logo=keras)
 ![TensorFlow](https://img.shields.io/badge/-Python-000000?style=flat&logo=tensorflow)
 
 
