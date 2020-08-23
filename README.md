@@ -30,4 +30,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
+**Data Science libraries and frameworks I am familiar with**
+![Pandas](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Numpy](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![PyTorch](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Keras](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TensorFlow](https://img.shields.io/badge/-Python-000000?style=flat&logo=tensorflow)
+
+
 **Data Science projects below**
