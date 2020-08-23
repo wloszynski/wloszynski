@@ -9,11 +9,10 @@
 [![Kaggle Badge](https://img.shields.io/badge/-AdrianWloszynski-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianwloszynski/)](https://www.kaggle.com/adrianwloszynski/)
 
 **Interested in**
-
-![Data Science]
-![Data Analysis]
-![Machine Learning]
-![Deep Learning]
+![Data Science](https://img.shields.io/badge/-Data Science-000000?style=flat&logo=data)
+![Data Analysis](https://img.shields.io/badge/-Data Analysis-000000?style=flat&logo=machine)
+![Machine Learning](https://img.shields.io/badge/-Machine Learning-000000?style=flat&logo=python)
+![Deep Learning](https://img.shields.io/badge/-Deep Learning-000000?style=flat&logo=python)
 
 **Languages I have used**
 
