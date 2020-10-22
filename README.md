@@ -3,7 +3,7 @@
 
 I am a technical college graduate, self-taught programmer living in Poznan, Poland. Right now learning Python and lots of Math to become a Data Scientist in the bright future. Kinda self-improvement and productivity geek.
 
-I am doing #66daysOfData #day05
+I am doing #66daysOfData #day06
 
 ### Let's connect! ###
 
