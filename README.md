@@ -43,4 +43,4 @@ I am doing #66daysOfData #day38
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)
 
 
-## Data Science projects below ##
+## Project below
