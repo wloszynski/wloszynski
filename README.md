@@ -14,9 +14,9 @@ I am doing #100daysOfCode #day44
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
-[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)]
+![Python(https://img.shields.io/badge/-Python-fff?&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
 ![HTML5](https://img.shields.io/badge/-HTML5-fff?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-fff?&logo=CSS3)
@@ -34,7 +34,7 @@ I am doing #100daysOfCode #day44
 
 ### Web/Full Stack projects
 
-[![statsjustjoin.it](https://img.shields.io/badge/-🧬)](https://statsjustjoinit.pythonanywhere.com)
+[![statsjustjoin.it](https://img.shields.io/badge/-🧬statsjustjoin.it-fff?)](https://statsjustjoinit.pythonanywhere.com)
 [![justjoinit spider](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/wloszynski/stats-justjoinit-spider)
 [![lazy pocketbook android](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/wloszynski/lazy-pocketbook-android)
 [![lazy pocketbook pc](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/wloszynski/lazy-pocketbook-pc)
