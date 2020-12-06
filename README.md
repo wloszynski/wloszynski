@@ -40,4 +40,4 @@ I am doing #100daysOfCode #day44
 [![lazy pocketbook pc](https://img.shields.io/badge/-🧬lazypocketbook_pc-fff?)](https://github.com/wloszynski/lazy-pocketbook-pc)
 
 
-## Project below
+## Projects below
