@@ -34,7 +34,7 @@ I am doing #100daysOfCode #day44
 
 ### Web/Full Stack projects
 
-[![statsjustjoin.it](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://statsjustjoinit.pythonanywhere.com)
+[![statsjustjoin.it](https://img.shields.io/badge/-🧬)](https://statsjustjoinit.pythonanywhere.com)
 [![justjoinit spider](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/wloszynski/stats-justjoinit-spider)
 [![lazy pocketbook android](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/wloszynski/lazy-pocketbook-android)
 [![lazy pocketbook pc](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/wloszynski/lazy-pocketbook-pc)
