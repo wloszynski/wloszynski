@@ -12,35 +12,32 @@ I am doing #100daysOfCode #day44
 [![Gmail Badge](https://img.shields.io/badge/-adrian@wloszynski.pl-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrian@wloszynski.pl)](mailto:adrian@wloszynski.pl)
 [![Kaggle Badge](https://img.shields.io/badge/-AdrianWloszynski-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianwloszynski/)](https://www.kaggle.com/adrianwloszynski/)
 
-**Interested in**
+### Languages
 
-![Data_Science](https://img.shields.io/badge/-Data_Science-000000?style=flat&logo=python)
-![Data_Analysis](https://img.shields.io/badge/-Data_Analysis-000000?style=flat&logo=python)
-![Machine_Learning](https://img.shields.io/badge/-Machine_Learning-000000?style=flat&logo=python)
-![Deep_Learning](https://img.shields.io/badge/-Deep_Learning-000000?style=flat&logo=python)
-
-**Languages I have used**
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)]
+[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
+[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)]
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
+![HTML5](https://img.shields.io/badge/-HTML5-fff?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-fff?&logo=CSS3)
 
 
-**Some of the technologies I have worked with**
+### Technologies
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Django](https://img.shields.io/badge/-Django-fff?&logo=Django)
+![React](https://img.shields.io/badge/-React-fff?&logo=React)
+![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
+![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
+![Android](https://img.shields.io/badge/-Android-fff?&logo=Android)
 
-**Data Science libraries and frameworks I am familiar with**
 
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=library)
-![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=library)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000000?style=flat&logo=library)
-![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=keras)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)
+### Web/Full Stack projects
+
+[![statsjustjoin.it](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://statsjustjoinit.pythonanywhere.com)
+[![justjoinit spider](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/wloszynski/stats-justjoinit-spider)
+[![lazy pocketbook android](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/wloszynski/lazy-pocketbook-android)
+[![lazy pocketbook pc](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/wloszynski/lazy-pocketbook-pc)
 
 
 ## Project below
