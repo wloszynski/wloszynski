@@ -39,5 +39,4 @@ I am doing #100daysOfCode #day47
 [![lazy pocketbook android](https://img.shields.io/badge/-🧬lazypocketbook_android-fff?)](https://github.com/wloszynski/lazy-pocketbook-android)
 [![lazy pocketbook pc](https://img.shields.io/badge/-🧬lazypocketbook_pc-fff?)](https://github.com/wloszynski/lazy-pocketbook-pc)
 
-
 ## Projects below
