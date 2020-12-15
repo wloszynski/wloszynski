@@ -14,20 +14,20 @@ I am doing #100daysOfCode #day53
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
-![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
 ![HTML5](https://img.shields.io/badge/-HTML5-fff?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-fff?&logo=CSS3)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
+![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
+
 
 
 ### Technologies
 
-![Django](https://img.shields.io/badge/-Django-fff?&logo=Django)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
-![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
+![Django](https://img.shields.io/badge/-Django-fff?&logo=Django)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
 ![Android](https://img.shields.io/badge/-Android-fff?&logo=Android)
 
