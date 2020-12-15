@@ -16,7 +16,7 @@ I am doing #100daysOfCode #day53
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![HTML5](https://img.shields.io/badge/-HTML5-fff?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-fff?&logo=CSS3)
+![CSS3](https://img.shields.io/badge/-SASS-fff?&logo=SASS)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
 ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
