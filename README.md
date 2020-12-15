@@ -10,7 +10,6 @@ I am doing #100daysOfCode #day53
 [![Linkedin Badge](https://img.shields.io/badge/-AdrianWloszynski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wloszynski/)](https://www.linkedin.com/in/wloszynski/)
 [![Website Badge](https://img.shields.io/badge/-adrianwloszynski.com-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://adrianwloszynski.com/)](http://www.adrianwloszynski.com)
 [![Gmail Badge](https://img.shields.io/badge/-adrian@wloszynski.pl-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrian@wloszynski.pl)](mailto:adrian@wloszynski.pl)
-[![Kaggle Badge](https://img.shields.io/badge/-AdrianWloszynski-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianwloszynski/)](https://www.kaggle.com/adrianwloszynski/)
 
 ### Languages
 
