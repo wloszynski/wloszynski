@@ -3,7 +3,7 @@
 
 I am a technical college graduate, self-taught programmer living in Poznan, Poland. Right now learning a lot of things to become web developer in the bright future. Kinda self-improvement and productivity geek.
 
-I am doing #100daysOfCode #day55
+I am doing #100daysOfCode #day56
 
 ### Let's connect! ###
 
