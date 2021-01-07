@@ -36,7 +36,7 @@ I am doing #100daysOfCode #day76
 [![statsjustjoin.it](https://img.shields.io/badge/-🧬statsjustjoin.it-fff?)](https://statsjustjoinit.pythonanywhere.com)
 [![justjoinit spider](https://img.shields.io/badge/-🧬justjoinit_spider-fff?)](https://github.com/wloszynski/stats-justjoinit-spider)
 [![lazy pocketbook android](https://img.shields.io/badge/-🧬lazypocketbook_android-fff?)](https://github.com/wloszynski/lazy-pocketbook-android)
-[![lazy pocketbook pc](https://img.shields.io/badge/-🧬lazypocketbook_pc-fff?)](https://github.com/wloszynski/lazy-pocketbook-pc)
+[![sucharyromana.pl](https://img.shields.io/badge/-🧬sucharyromana-fff?)](https://sucharyromana.netlify.app/)
 
 
 ## Projects below
