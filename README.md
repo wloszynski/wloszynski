@@ -15,9 +15,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
-[![Linkedin Badge](https://img.shields.io/badge/-AdrianWloszynski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wloszynski/)](https://www.linkedin.com/in/wloszynski/)
-[![Website Badge](https://img.shields.io/badge/-adrianwloszynski.com-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://adrianwloszynski.com/)](http://www.adrianwloszynski.com)
-[![Gmail Badge](https://img.shields.io/badge/-adrian@wloszynski.pl-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrian@wloszynski.pl)](mailto:adrian@wloszynski.pl)
 
 <h2 align="center"><samp>languages</samp></h2>
 <p align="center">
