@@ -7,9 +7,9 @@
 
 <h2 align="center"><samp>let's connect</samp></h2>
 <p align="center">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<a target="_blank" href="https://www.linkedin.com/in/wloszynski/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a target="_blank" href="mailto:adrian@wloszynski.pl"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;&nbsp;</a>
+<a target="_blank" href="http://adrianwloszynski.com/"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
 </p>
 
 <h2 align="center"><samp>languages</samp></h2>
