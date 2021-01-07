@@ -33,10 +33,10 @@ I am doing #100daysOfCode #day76
 
 ### Web/Full Stack projects
 
-[![statsjustjoin.it](https://img.shields.io/badge/-🧬statsjustjoin.it-fff?)](https://statsjustjoinit.pythonanywhere.com)
-[![justjoinit spider](https://img.shields.io/badge/-🧬justjoinit_spider-fff?)](https://github.com/wloszynski/stats-justjoinit-spider)
-[![lazy pocketbook android](https://img.shields.io/badge/-🧬lazypocketbook_android-fff?)](https://github.com/wloszynski/lazy-pocketbook-android)
-[![sucharyromana.pl](https://img.shields.io/badge/-🧬sucharyromana-fff?)](https://sucharyromana.netlify.app/)
+[![statsjustjoin.it](https://img.shields.io/badge/-🌐statsjustjoin.it-fff?)](https://statsjustjoinit.pythonanywhere.com)
+[![sucharyromana.pl](https://img.shields.io/badge/-🃏sucharyromana-fff?)](https://sucharyromana.netlify.app/)
+[![justjoinit spider](https://img.shields.io/badge/-🕷justjoinit_spider-fff?)](https://github.com/wloszynski/stats-justjoinit-spider)
+[![lazy pocketbook android](https://img.shields.io/badge/-📔lazypocketbook_android-fff?)](https://github.com/wloszynski/lazy-pocketbook-android)
 
 
 ## Projects below
