@@ -2,7 +2,7 @@
 <p align="center">
   <samp>I am a technical college graduate, a self-taught programmer living in Poznan, Poland. Right now learning a lot of things to become a web developer in the bright future. Kinda self-improvement and productivity geek.
   </samp>
-<h3 align="center"> <samp>I am doing #100daysOfCode #day76</samp></h3>
+<h3 align="center"> <samp>I am doing #100daysOfCode #day77</samp></h3>
 </p>
 
 <h2 align="center"><samp>let's connect</samp></h2>
