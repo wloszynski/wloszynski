@@ -1,6 +1,6 @@
 <h2 align="center"><samp>whoami</samp></h2>
 <p align="center">
-  <samp>I am a technical college graduate, a self-taught programmer living in Poznan, Poland. Right now learning a lot of things to become a web developer in the bright future. Kinda self-improvement and productivity geek.
+  <samp>I am a technical college graduate, a self-taught programmer living in Poznan, Poland. Right know, I'm preparing mockup for my new project :) 
   </samp>
 <h3 align="center"> <samp>I am doing #100daysOfCode #day92</samp></h3>
 </p>
