@@ -2,7 +2,7 @@
 <p align="center">
   <samp>I am a technical college graduate, a self-taught programmer living in Poznan, Poland. Right know, I'm preparing mockup for my new project :) 
   </samp>
-<h3 align="center"> <samp>I am doing #100daysOfCode #day92</samp></h3>
+<h3 align="center"> <samp>I am doing #100daysOfCode #day93</samp></h3>
 </p>
 
 <h2 align="center"><samp>let's connect</samp></h2>
