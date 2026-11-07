@@ -2,7 +2,7 @@
 
 Senior full-stack engineer in Wrocław, working remotely.
 
-I own product features end to end: I scope them with the business, build them across the stack and follow how they perform after release. Since 2021 I have worked on [adtron](https://adtron.io), an ad-tech platform for interactive ads.
+I own product features end to end: I scope them with the business, build them across the stack and follow how they perform after release. Since 2021 I have worked on [adtron](https://adtron.io), an ad-tech platform for interactive ads seen by millions of users.
 
 - **Engineering:** TypeScript, Vue and Nuxt, Angular, Laravel, PHP, Node.js, REST APIs on AWS
 - **Ad-tech:** VAST, viewability and impression tracking
